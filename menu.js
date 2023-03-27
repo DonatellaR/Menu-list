@@ -19,6 +19,14 @@ const food =
 },
 
 {
+    nome: "Tris magico fingerfood",
+    prezzo: "14$",
+    foodimg: 'img/tris.jpg',
+    tipo: "antipasto",
+    des: "Frise con pomodorini e origano, parmigiana di melanzane e scamorzine con capocollo di Martina Franca"
+},
+
+{
     nome: "Orecchiette al sugo",
     prezzo: "10$",
     foodimg: 'img/orecchiette.jpg',
@@ -35,6 +43,14 @@ const food =
 },
 
 {
+    nome: "Calamarata ai frutti di mare",
+    prezzo: "14$",
+    foodimg: 'img/calamarata.jpg',
+    tipo: "primo",
+    des: "Mezzi paccheri al sugo rosso, con frutti di mare del mediterraneo"
+},
+
+{
     nome: "Polpette fritte",
     prezzo: "8$",
     foodimg: 'img/polpette.jpg',
@@ -48,6 +64,14 @@ const food =
     foodimg: 'img/tonno.jpg',
     tipo: "secondo",
     des: "Tonno rosso del mediterraneo con saporita panatura di pangrattato e pistacchi"
+},
+
+{
+    nome: "Bombette",
+    prezzo: "12$",
+    foodimg: 'img/bombette.png',
+    tipo: "secondo",
+    des: "Involtini di vitello avvolti da pancetta, con un cuore saporito di caciocavallo"
 },
 
 {
